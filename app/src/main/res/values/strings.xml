@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="coffeeshop_name">Dunkin\' Donuts</string>
+    <string name="coffeeshop_location">TBD</string>
+    <string name="coffeeshop_open">8:00 am</string>
+    <string name="coffeeshop_close">5:00 pm</string>
+
+    <string name="backpacking_name">TBD</string>
+    <string name="backpacking_location">TBD</string>
+    <string name="backpacking_open">8:00 am</string>
+    <string name="backpacing_close">5:00 pm</string>
+
+    <string name="hike_name">TBD</string>
+    <string name="hike_location">TBD</string>
+    <string name="hike_open">8:00 am</string>
+    <string name="hike_close">5:00 pm</string>
+
+    <string name="restaurant_name">Dunkin\' Donuts</string>
+    <string name="restaurant_location">TBD</string>
+    <string name="restaurant_open">8:00 am</string>
+    <string name="restaurant_close">5:00 pm</string>
+
+</resources>
