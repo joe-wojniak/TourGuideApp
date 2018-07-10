@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tour Guide: Estes Park &amp; RMNP</string>
+
+    <string name="coffeeshop_name">Raven\'s Roost</string>
+    <string name="coffeeshop_location">157 W Elkhorn Ave</string>
+    <string name="coffeeshop_open">Opens 8:00 am</string>
+    <string name="coffeeshop_close">Closes 5:00 pm</string>
+
+    <string name="coffeeshop_name2">Kind Coffee</string>
+    <string name="coffeeshop_location2">470 E Elkhorn Ave</string>
+    <string name="coffeeshop_open2">Opens 6:30 am</string>
+    <string name="coffeeshop_close2">Closes 8:00 pm</string>
+
+    <string name="coffeeshop_name3">Coffee on the Rocks</string>
+    <string name="coffeeshop_location3">510 Moraine Ave</string>
+    <string name="coffeeshop_open3">Opens 6:00 am</string>
+    <string name="coffeeshop_close3">Closes 8:30 pm</string>
+
+    <string name="backpacking_name">Upper Chipmunk</string>
+    <string name="backpacking_location">Campsite #19, Lawn Lake Trailhead</string>
+    <string name="backpacking_open">Open: Summer</string>
+    <string name="backpacking_close">Closed: Winter</string>
+
+    <string name="backpacking_name2">Little Rock Lake</string>
+    <string name="backpacking_location2">Campsite #24, Upper Forest Canyon</string>
+    <string name="backpacking_open2">Open: Summer</string>
+    <string name="backpacking_close2">Closed: Winter</string>
+
+    <string name="backpacking_name3">Glacier Gorge</string>
+    <string name="backpacking_location3">Campsite #39, Glacier Gorge Trailhead</string>
+    <string name="backpacking_open3">Open: Summer</string>
+    <string name="backpacking_close3">Closed: Winter</string>
+
+    <string name="hike_name">Bear Lake</string>
+    <string name="hike_location">Bear Lake Trailhead</string>
+    <string name="hike_open">Open: Summer 5:30am</string>
+    <string name="hike_close">Closed: 8:00pm</string>
+
+    <string name="hike_name2">The Loch</string>
+    <string name="hike_location2">Glacier Gorge Trailhead</string>
+    <string name="hike_open2">Open: Summer 5:30am</string>
+    <string name="hike_close2">Closed: 8:00 pm</string>
+
+    <string name="hike_name3">Chasm Lake</string>
+    <string name="hike_location3">Longs Peak Trailhead</string>
+    <string name="hike_open3">Open: Summer 5:30 am</string>
+    <string name="hike_close3">Closed: 8:00 pm</string>
+
+    <string name="restaurant_name">Mama Rose\'s</string>
+    <string name="restaurant_location">338 E Elkhorn Ave</string>
+    <string name="restaurant_open">Opens 11:00 am</string>
+    <string name="restaurant_close">Closes 9:00 pm</string>
+
+    <string name="restaurant_name2">Big Horn Restaurant</string>
+    <string name="restaurant_location2">401 W Elkhorn Ave</string>
+    <string name="restaurant_open2">Opens 6:00 am</string>
+    <string name="restaurant_close2">Closes 8:00 pm</string>
+
+    <string name="restaurant_name3">Poppy\'s Pizza &amp; Grill</string>
+    <string name="restaurant_location3">342 E Elkhorn Ave</string>
+    <string name="restaurant_open3">Opens 11:00 am</string>
+    <string name="restaurant_close3">Closes 9:00 pm</string>
+
+    <string name="category_restaurant">Restaurants</string>
+    <string name="category_coffeeshop">Coffeeshops</string>
+    <string name="category_backpacking">Backpacking</string>
+    <string name="category_hike">Hikes</string>
+</resources>

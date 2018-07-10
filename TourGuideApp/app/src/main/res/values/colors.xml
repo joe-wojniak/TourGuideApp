@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43a047</color>
+    <color name="colorPrimaryDark">#00701a</color>
+    <color name="colorAccent">#76d275</color>
+    <color name ="colorBackground">#629749</color>
+<!-- Category colors -->
+    <color name ="category_coffeeshop">#795548</color>
+    <color name ="category_restaurant">#2196f3</color>
+    <color name ="category_backpacking">#ff5722</color>
+    <color name ="category_hike">#c79100</color>
+</resources>
